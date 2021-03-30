@@ -1,5 +1,5 @@
-package com.adp3.submissions;
-
+package com.adp2.submissions;
+ Author  : Armand  Nziza (217035019)
 public class User {
 
     String name, surname;
