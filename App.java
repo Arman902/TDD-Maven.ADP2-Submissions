@@ -1,8 +1,8 @@
-package com.adp3.submissions;
+package com.adp2.submissions;
 
 /**
  * Hello world!
- *
+ *Armand Nziza (217035019)
  */
 public class App 
 {
