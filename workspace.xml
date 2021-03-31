@@ -50,12 +50,12 @@
       <module name="Prac2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.adp3.submissions.*" />
+          <option name="PATTERN" value="com.adp2.submissions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.adp3.submissions" />
-      <option name="MAIN_CLASS_NAME" value="com.adp3.submissions.TestUser" />
+      <option name="PACKAGE_NAME" value="com.adp2.submissions" />
+      <option name="MAIN_CLASS_NAME" value="com.adp2.submissions.TestUser" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -65,12 +65,12 @@
       <module name="Prac2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.adp3.submissions.*" />
+          <option name="PATTERN" value="com.adp2.submissions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.adp3.submissions" />
-      <option name="MAIN_CLASS_NAME" value="com.adp3.submissions.TestUser" />
+      <option name="PACKAGE_NAME" value="com.adp2.submissions" />
+      <option name="MAIN_CLASS_NAME" value="com.adp2.submissions.TestUser" />
       <option name="METHOD_NAME" value="testEquality" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -81,12 +81,12 @@
       <module name="Prac2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.adp3.submissions.*" />
+          <option name="PATTERN" value="com.adp2.submissions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.adp3.submissions" />
-      <option name="MAIN_CLASS_NAME" value="com.adp3.submissions.TestUser" />
+      <option name="PACKAGE_NAME" value="com.adp2.submissions" />
+      <option name="MAIN_CLASS_NAME" value="com.adp2.submissions.TestUser" />
       <option name="METHOD_NAME" value="testFailing" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -97,12 +97,12 @@
       <module name="Prac2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.adp3.submissions.*" />
+          <option name="PATTERN" value="com.adp2.submissions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.adp3.submissions" />
-      <option name="MAIN_CLASS_NAME" value="com.adp3.submissions.TestUser" />
+      <option name="PACKAGE_NAME" value="com.adp2.submissions" />
+      <option name="MAIN_CLASS_NAME" value="com.adp2.submissions.TestUser" />
       <option name="METHOD_NAME" value="testIdentity" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -113,13 +113,13 @@
       <module name="Prac2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.adp3.submissions.*" />
+          <option name="PATTERN" value="com.adp2.submissions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.adp3.submissions" />
-      <option name="MAIN_CLASS_NAME" value="com.adp3.submissions.TestUser" />
-      <option name="METHOD_NAME" value="testIgnore" />
+      <option name="PACKAGE_NAME" value="com.adp2.submissions" />
+      <option name="MAIN_CLASS_NAME" value="com.adp2.submissions.TestUser" />
+      <option name="METHOD_NAME" value="testDesabling" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -131,7 +131,7 @@
         <item itemvalue="JUnit.TestUser.testIdentity" />
         <item itemvalue="JUnit.TestUser.testEquality" />
         <item itemvalue="JUnit.TestUser" />
-        <item itemvalue="JUnit.TestUser.testIgnore" />
+        <item itemvalue="JUnit.TestUser.testDesabling" />
       </list>
     </recent_temporary>
   </component>
