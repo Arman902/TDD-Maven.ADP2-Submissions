@@ -8,16 +8,16 @@ public class TestUser {
 
     @Before
     public void setUp(){
-        fury = new User();
-        fury.setName("Rwasa");
-        fury.setSurname("Fanny");
-        fury.setStudentNumber(217035019);
+        fanny = new User();
+        fanny.setName("Rwasa");
+        fanny.setSurname("Fanny");
+        fanny.setStudentNumber(217035019);
 
         //equal to fury
-        gypsy = new User();
-        gypsy.setName("Rwasa");
-        gypsy.setSurname("Fanny");
-        gypsy.setStudentNumber(217035019);
+        andrea = new User();
+        andrea.setName("Rwasa");
+        andrea.setSurname("Fanny");
+        andrea.setStudentNumber(217035019);
 
         //Identical Objects
         rwasa = fanny;
