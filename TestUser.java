@@ -60,7 +60,7 @@ public class TestUser {
         Assert.fail();
     }
 
-    @Ignore
+    @Disabling
     @Test
     public void testDesabling(){
         Assert.assertEquals(2, 1);
