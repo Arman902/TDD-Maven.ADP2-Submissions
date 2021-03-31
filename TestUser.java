@@ -39,8 +39,8 @@ public class TestUser {
 
     @Test
     public void testIdentity(){
-        System.out.println(fury.toString());
-        System.out.println(gypsy.toString());
+        System.out.println(fanny.toString());
+        System.out.println(andrea.toString());
 
         Assert.assertTrue(andrea == rwasa);
     }       //end testIdentity()
