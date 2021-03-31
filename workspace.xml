@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3456346-6f7f-4df1-959b-67930370d6ea" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YCx08MDpzQNJxI9UkDVzM22fhw" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SimpleCalculator" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TestUser.testFailing">
+    <configuration name="TestUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Prac2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.adp3.submissions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.adp3.submissions" />
+      <option name="MAIN_CLASS_NAME" value="com.adp3.submissions.TestUser" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUser.testEquality" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Prac2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.adp3.submissions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.adp3.submissions" />
+      <option name="MAIN_CLASS_NAME" value="com.adp3.submissions.TestUser" />
+      <option name="METHOD_NAME" value="testEquality" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUser.testFailing" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Prac2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.adp3.submissions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.adp3.submissions" />
+      <option name="MAIN_CLASS_NAME" value="com.adp3.submissions.TestUser" />
+      <option name="METHOD_NAME" value="testFailing" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUser.testIdentity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Prac2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.adp3.submissions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.adp3.submissions" />
+      <option name="MAIN_CLASS_NAME" value="com.adp3.submissions.TestUser" />
+      <option name="METHOD_NAME" value="testIdentity" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUser.testIgnore" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Prac2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.adp3.submissions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.adp3.submissions" />
+      <option name="MAIN_CLASS_NAME" value="com.adp3.submissions.TestUser" />
+      <option name="METHOD_NAME" value="testIgnore" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestUser.testFailing" />
+        <item itemvalue="JUnit.TestUser.testIdentity" />
+        <item itemvalue="JUnit.TestUser.testEquality" />
+        <item itemvalue="JUnit.TestUser" />
+        <item itemvalue="JUnit.TestUser.testIgnore" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3456346-6f7f-4df1-959b-67930370d6ea" name="Default Changelist" comment="" />
+      <created>1582460151604</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582460151604</updated>
+      <workItem from="1582460157086" duration="1829000" />
+      <workItem from="1582560752458" duration="1145000" />
+      <workItem from="1582670534239" duration="3656000" />
+      <workItem from="1583261983488" duration="852000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
