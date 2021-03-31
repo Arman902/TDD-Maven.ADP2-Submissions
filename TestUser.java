@@ -2,6 +2,8 @@ package com.adp2.submissions;
 
 import org.junit.*;
 
+Armand Nziza (217035019)
+
 public class TestUser {
 
     User fanny, rwasa, andrea;
