@@ -1,23 +1,23 @@
-package com.adp3.submissions;
+package com.adp2.submissions;
 
 import org.junit.*;
 
 public class TestUser {
 
-    User fury, tyson, gypsy;
+    User Rwasa, Fanny, Andrea;
 
     @Before
     public void setUp(){
         fury = new User();
-        fury.setName("Tyson");
-        fury.setSurname("Fury");
-        fury.setStudentNumber(217301827);
+        fury.setName("Rwasa");
+        fury.setSurname("Fanny");
+        fury.setStudentNumber(217035019);
 
         //equal to fury
         gypsy = new User();
-        gypsy.setName("Tyson");
-        gypsy.setSurname("Fury");
-        gypsy.setStudentNumber(217301827);
+        gypsy.setName("Rwasa");
+        gypsy.setSurname("Fanny");
+        gypsy.setStudentNumber(217035019);
 
         //Identical Objects
         tyson = fury;
@@ -30,19 +30,19 @@ public class TestUser {
 
     @Test
     public void testEquality(){
-        System.out.println(fury.hashCode());
-        System.out.println(tyson.hashCode());
+        System.out.println(fanny.hashCode());
+        System.out.println(rwasa.hashCode());
 
-        Assert.assertSame(tyson, fury);
+        Assert.assertSame(rwasa, fanny);
     }       //end testEquality()
 
 
     @Test
     public void testIdentity(){
-        System.out.println(fury.toString());
-        System.out.println(gypsy.toString());
+        System.out.println(fanny.toString());
+        System.out.println(rwasa.toString());
 
-        Assert.assertTrue(gypsy == tyson);
+        Assert.assertTrue(andrea == rwasa);
     }       //end testIdentity()
 
 
