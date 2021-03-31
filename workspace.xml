@@ -47,7 +47,7 @@
   </component>
   <component name="RunManager" selected="JUnit.TestUser.testFailing">
     <configuration name="TestUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Prac2" />
+      <module name="Prac" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.adp2.submissions.*" />
@@ -62,7 +62,7 @@
       </method>
     </configuration>
     <configuration name="TestUser.testEquality" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Prac2" />
+      <module name="Prac" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.adp2.submissions.*" />
@@ -78,7 +78,7 @@
       </method>
     </configuration>
     <configuration name="TestUser.testFailing" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Prac2" />
+      <module name="Prac" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.adp2.submissions.*" />
@@ -94,7 +94,7 @@
       </method>
     </configuration>
     <configuration name="TestUser.testIdentity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Prac2" />
+      <module name="Prac" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.adp2.submissions.*" />
@@ -110,7 +110,7 @@
       </method>
     </configuration>
     <configuration name="TestUser.testIgnore" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Prac2" />
+      <module name="Prac" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.adp2.submissions.*" />
