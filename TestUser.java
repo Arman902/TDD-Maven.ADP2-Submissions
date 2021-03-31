@@ -62,9 +62,9 @@ public class TestUser {
 
     @Ignore
     @Test
-    public void testIgnore(){
+    public void testDesabling(){
         Assert.assertEquals(2, 1);
-    }       //end testIgnore()
+    }       //end testDesabling()
 
 
 }       //end class
